@@ -1,0 +1,35 @@
+body{
+    background-image: url(../img/pattern.jpg);
+    margin: 0;
+}
+header{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+li{
+    display: inline;
+    margin-right: 10px;
+}   
+
+main{
+    background-color: white;
+    margin: 10% 15%;
+    padding: 20px;
+}
+
+article{
+    border-bottom: 3px solid black;
+
+}
+
+footer{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
